@@ -26,7 +26,7 @@ Xem thêm chi tiết về mẫu thiết kế Abstract Factory [Tại đây](./Ab
 
 **Builder** là một mẫu thiết kế cho phép bạn tạo ra các đối tượng phức tạp bước từng bước. Nó cho phép bạn xây dựng các đối tượng phức tạp bằng cách sử dụng các đối tượng đơn giản và sắp xếp chúng theo cách phù hợp.
 
-Xem thêm chi tiết về mẫu thiết kế Builder [Tại đây](./Builder/).
+Xem thêm chi tiết về mẫu thiết kế Builder [Tại đây](./builder/).
 
 ## 5. Prototype
 
