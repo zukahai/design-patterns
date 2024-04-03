@@ -1,4 +1,4 @@
-# Singleton Pattern trong Java
+# Singleton Pattern
 
 Trong lập trình hướng đối tượng, Singleton là một mẫu thiết kế (design pattern) được sử dụng để đảm bảo rằng một lớp chỉ có duy nhất một thể hiện (instance) và cung cấp một điểm truy cập toàn cục đến thể hiện đó.
 
