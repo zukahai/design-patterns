@@ -62,14 +62,14 @@ public class FoodFactory {
 public class Restaurant {
     public static void main(String[] args) {
         Food pizza = FoodFactory.createFood("pizza");
-        pizza.prepare();
-        pizza.cook();
-        pizza.serve();
+        pizza.prepare(); // Output: Preparing pizza...
+        pizza.cook(); // Output: Cooking pizza...
+        pizza.serve(); // Output: Serving pizza...
 
         Food burger = FoodFactory.createFood("burger");
-        burger.prepare();
-        burger.cook();
-        burger.serve();
+        burger.prepare(); // Output: Preparing burger...
+        burger.cook(); // Output: Cooking burger...
+        burger.serve(); // Output: Serving burger...
     }
 }
 ```
