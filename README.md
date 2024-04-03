@@ -2,7 +2,7 @@
 
 Chào mừng bạn đến với hướng dẫn về các mẫu thiết kế phổ biến trong lập trình.
 
----
+--- 
 ## 1. Singleton
 
 **Singleton** là một mẫu thiết kế tạo ra một đối tượng duy nhất trong toàn bộ ứng dụng và cung cấp một cách để truy cập nó từ bất kỳ nơi nào trong mã. Điều này đảm bảo rằng chỉ có một phiên bản của đối tượng được tạo ra.
