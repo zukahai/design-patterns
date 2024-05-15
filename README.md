@@ -2,6 +2,32 @@
 
 Chào mừng bạn đến với hướng dẫn về các mẫu thiết kế phổ biến trong lập trình.
 
+## Mục lục
+
+- [1. Singleton](#1-singleton)
+- [2. Factory Method](#2-factory-method)
+- [3. Abstract Factory](#3-abstract-factory)
+- [4. Builder](#4-builder)
+- [5. Prototype](#5-prototype)
+- [6. Adapter](#6-adapter)
+- [7. Bridge](#7-bridge)
+- [8. Composite](#8-composite)
+- [9. Decorator](#9-decorator)
+- [10. Facade](#10-facade)
+- [11. Flyweight](#11-flyweight)
+- [12. Proxy](#12-proxy)
+- [13. Chain of Responsibility](#13-chain-of-responsibility)
+- [14. Command](#14-command)
+- [15. Interpreter](#15-interpreter)
+- [16. Iterator](#16-iterator)
+- [17. Mediator](#17-mediator)
+- [18. Memento](#18-memento)
+- [19. Observer](#19-observer)
+- [20. State](#20-state)
+- [21. Template Method](#21-template-method)
+- [22. Visitor](#22-visitor)
+
+
 --- 
 ## 1. Singleton
 
