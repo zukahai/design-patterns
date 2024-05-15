@@ -1,5 +1,5 @@
 # Các Mẫu Thiết Kế (Design Patterns)
-
+ 
 Chào mừng bạn đến với hướng dẫn về các mẫu thiết kế phổ biến trong lập trình.
 
 ## Mục lục
